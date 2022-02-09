@@ -7,3 +7,4 @@
 # @Desc    :   None
 
 from mmts.scripts.deDosfuscation import de_dosfuscation_work, main as deDos_main
+from mmts.scripts.parseLnk import parse_lnk as parse_lnk_main

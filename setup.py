@@ -39,6 +39,7 @@ do_setup(
     entry_points={
         "console_scripts": [
             "mmts-decmd = mmts:deDos_main",
+            "mmts-parselnk = mmts:parse_lnk_main",
         ]
     },
     classifiers=[

@@ -19,6 +19,9 @@ $ pip install mmts
 # decmd
 # In the `$cmd_file` file, there is one obfuscation command per line. After the execution is completed, a `$cmd_file.clear` file is generated in the current directory, and the command after deobfuscation is saved.
 $ mmts-decmd $cmd_file
+
+# parse lnk
+$ mmts-parselnk $cmd_file
 ```
 
 ### 2. Quick Start
